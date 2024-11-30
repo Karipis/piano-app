@@ -39,7 +39,7 @@ const keyToNote = {
     'Y': 'a',
     '7': 'a-sharp',
     'u': 'b',
-    'u': 'b',
+    'U': 'b',
     'i': 'c1',
     'I': 'c1',
     '9': 'c-sharp1',
